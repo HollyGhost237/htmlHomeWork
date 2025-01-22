@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(71, 68, 68);
+}
+#para2 {
+    font-weight: bolder;
+}
+.para1 {
+    font-style: italic;
+}
+.aomme {
+    color: green;
+}
+.banane {
+    color: yellow;
+}
+.orange {
+    color: orange;
+}
+.item-highlight {
+    color: aqua;
+}
+[class^="a"] {
+    background-color: yellow;
+}
+[class$="date"] {
+    background-color: green;
+}

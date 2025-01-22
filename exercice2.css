@@ -1,0 +1,18 @@
+.container {
+    background-color: #f0acd6;
+}
+.box{
+    border: 1px white solid;
+}
+.box-highligt {
+    color: blue;
+}
+.list-item {
+    color: green;
+}
+div {
+    margin: 10 px;
+}
+p {
+    color: red;
+}

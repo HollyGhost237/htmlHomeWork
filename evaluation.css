@@ -1,0 +1,17 @@
+body {
+    background-color: #111;
+}
+.highligth {
+    color:aqua;
+    font-weight: bold;
+}
+li{
+    color: aqua;
+}
+.special {
+    border: 2px solid;
+    background-color: gray;
+}
+#montitre {
+    background-color: yellow;
+}
